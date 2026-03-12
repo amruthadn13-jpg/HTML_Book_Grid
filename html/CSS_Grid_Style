@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Library System</title>
+    
+        <style>
+            body{
+                background-color: bisque;
+            }
+            header{
+                background-color: aquamarine;
+                color: blue;
+                text-align:center;
+                padding:20px;
+            }
+
+            .book{
+                display: inline-block;
+                width :200px;
+                background-color: white;
+                border : 2px solid black;
+                border-radius :10px;
+                padding :15px;
+                margin :15px;
+            }
+        </style>
+    </head>
+
+    <body>
+        <header>
+        <h1>Library Book Grid</h1>
+        </header>
+
+        <div class="book">
+            <h3>Machine Learning</h3>
+            <p>Amrutha</p>
+        </div>
+
+        <div class="book">
+            <h3>Embedded System</h3>
+            <p>Harsha</p>
+        </div>
+
+        <div class="book">
+            <h3>Python Programming</h3>
+            <p>Ananda</p>
+        </div>
+
+        <div class="book">
+            <h3>C Programming</h3>
+            <p>Ayan</p>
+        </div>
+    </body>
+</html>
+
+
+        
+    
